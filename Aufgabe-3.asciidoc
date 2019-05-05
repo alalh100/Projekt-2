@@ -1,0 +1,7 @@
+.Name der Software
+**********************************************************************
+HHU-Lern-manager ( HLM )
+
+oder
+
+Online-Studying-Manager ( OSM )
