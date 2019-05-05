@@ -89,6 +89,12 @@ Teilsysteme
  Der Professor kann dann auf die Fragen live eingehen oder falls gewünscht, ein paar Abschnitte aus der Vorlesung
  nochmal erklären.
 
+ Solches System erhöht die Anzahl der Teilnahme an der Vorlesungen , da die Vorlesung interaktiver wird und
+ deswegen interessanter.
 
+ Der Professor muss auch nicht immer den richtigen Zeitpunkt zum Fragen sagen.
+
+ Die Studierende können einfach ihre Fragen stellen und der Professor antwortet dann die Fragen an der richtigen Stelle
+ und dem richtigen Zeitpunkt.
  |===
 
