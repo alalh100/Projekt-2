@@ -76,6 +76,19 @@ Teilsysteme
 
  Der ganze Prozess muss zeitlich dokumentiert werden.
 
-|Column 1, row 2
-|Column 2, row 2
-|===
+|Live-Fragen-System
+|Viele Studierende haben Angst davor, Fragen während der Vorlesung zu stellen.
+ Andere schämen sich wegen ihrer Sprachkenntnisse oder wollen einfach nicht öffentlich Fragen.
+
+ Meine Vorstellung für das System ist, dass der Professor direkt vor der Vorlesung eine Setzung starten kann und
+ die Studierende können dann an dieser Sitzung teilnehmen und anonym live Fragen stellen, die der Professor während
+ der Vorlesung beobachten kann.
+
+ Die Teilnahme an der Sitzung erfolgt durch automatisch generierte Nummer oder Barcodes.
+
+ Der Professor kann dann auf die Fragen live eingehen oder falls gewünscht, ein paar Abschnitte aus der Vorlesung
+ nochmal erklären.
+
+
+ |===
+
