@@ -34,3 +34,14 @@ Persona
  entsprechend ihrer Beschäftigungsarten bzw. ihrer Arbeitszeiten verteilen kann, sodass er nur die Beschäftigungsarten
  der KorrektorInnen eingeben soll und durch eine einfache Berechnung werden die Abgaben fair verteilt.
 |===
+
+= Aufgabe 3
+===================
+
+.Name der Software
+**********************************************************************
+HHU-Lern-manager ( HLM )
+
+oder
+
+Online-Studying-Manager ( OSM )
