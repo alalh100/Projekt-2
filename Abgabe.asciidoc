@@ -66,7 +66,7 @@ Teilsysteme
  ermitteln können, ohne dass der Student, sich darum kümmert, wer für welchen Teil der Veranstaltung verantwortlich ist
  und an welche E-Mail-Adresse die Beschwerde geschickt werden soll.
 
- Der Student/in sucht sich die Art der Beschwerden aus und gemäß dieser Wahl wird dann die Beschwerde
+ Der/Die Student/in sucht sich die Art der Beschwerden aus und gemäß dieser Wahl wird dann die Beschwerde
  an der richtigen Person vermittelt.
 
  Die Studierende sollen auch den Status ihrer Beschwerden verfolgen können,
