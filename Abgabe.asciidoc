@@ -39,9 +39,39 @@ Persona
 ===================
 
 .Name der Software
-**********************************************************************
+*********************************
+
 HHU-Lern-manager ( HLM )
 
 oder
 
 Online-Studying-Manager ( OSM )
+
+===================
+
+
+= Aufgabe 4
+===================
+
+
+.Teilsysteme
+|===
+|Name |Beschreibung
+|Beschwerdesystem
+|Das Beschwerdesystem gibt den Studierenden die Möglichkeit, sich über die verschiedenen Bestandteile der
+ Lernveranstaltungen zu beschweren.
+ Z. B., über Korrektur, Fehler in der Aufgaben, unklare Aufgabestellungen, Klausuren, etc.
+
+ Dieses System soll dann automatisch die Beschwerden je nach Art der Beschwerde an dem zuständigen Personal
+ ermitteln können, ohne dass der Student, sich darum kümmert, wer für welchen Teil der Veranstaltung verantwortlich ist
+ und an welche E-Mail-Adresse die Beschwerde geschickt werden soll.
+
+ Der Student/in sucht sich die Art der Beschwerden aus und gemäß dieser Wahl wird dann die Beschwerde
+ an der richtigen Person vermittelt.
+
+ Die Studierende sollen auch den Status ihrer Beschwerden verfolgen können,
+ z.B., in Bearbeitung, genehmigt, abgelehnt, siehe Antwort, etc.
+
+|Column 1, row 2
+|Column 2, row 2
+|===
