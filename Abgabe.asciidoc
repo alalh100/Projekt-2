@@ -54,7 +54,7 @@ Online-Studying-Manager ( OSM )
 ===================
 
 
-.Teilsysteme
+Teilsysteme
 |===
 |Name |Beschreibung
 |Beschwerdesystem
@@ -71,6 +71,10 @@ Online-Studying-Manager ( OSM )
 
  Die Studierende sollen auch den Status ihrer Beschwerden verfolgen können,
  z.B., in Bearbeitung, genehmigt, abgelehnt, siehe Antwort, etc.
+
+ Die Verantwortlichen können dann auf die Beschwerden antworten.
+
+ Der ganze Prozess muss zeitlich dokumentiert werden.
 
 |Column 1, row 2
 |Column 2, row 2
