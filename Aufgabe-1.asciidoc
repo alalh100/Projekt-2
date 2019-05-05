@@ -7,34 +7,30 @@ Persona
 |Name |Hintergrund |Ziel
 
 |Sam alnomiry
-|Sam studiert als Austauschstudent Informatik an der HHU. Seine Sprachkenntnisse sind mittelmäßig.
- Er besucht die Veranschtaltungen RDB und Rechnerarchitektur.
+|Sam studiert als Austauschstudent Informatik an der HHU.
+ Seine Sprachkenntnisse sind mittelmäßig. Er besucht die Veranstaltungen RDB
+ und Rechnerarchitektur.
  Sam hat gar keine Programmierkenntnisse und kann mit dem PC auch nicht so besonders umgehen.
-
- Sam liest gerne philosophie Bücher. Deswegen ist seine abstraktionsfähigkeit besonders stark.
-
- Er ist mit den Plattformen der Uni unzufrieden, da er mit den vielen platformen überfordert ist und wünscht sich, dass
- das ganze irgenwann viel einfacher wird und mit Fremdsprachen unterstützt wird.
-
- Es gibt für jeweils seine Modulle unterschiedliche Bestehensgrenzen und er kann sie nicht alle merken.
-
-|Sam möchte, dass das Abgabesystem nicht nur seine erreichten Punkte bei den Abgaben sieht, sondern auch dass es einen
- Stutus gibt, wie seine Leistung mit einfachen wörtern war, z.B, gut, ausreichend, nicht bestanden, etc.
+ Sam liest gerne Philosophie Bücher. Deswegen ist seine Abstraktionsfähigkeit besonders stark.
+ Er ist mit den Plattformen der Uni unzufrieden, da er mit den vielen Plattformen überfordert ist und wünscht sich,
+ dass das ganze irgendwann viel einfacher wird und mit Fremdsprachen unterstützt wird.
+ Es gibt für jeweils seine Module unterschiedliche Bestehensgrenzen und er kann sie nicht alle merken.
+|Sam möchte, dass das Abgabesystem nicht nur seine erreichten Punkte bei den Abgaben sieht, sondern auch, dass es einen
+ Status gibt, wie seine Leistung mit einfachen Wörtern war, z.B, gut, ausreichend, nicht bestanden, etc.
 
 |David Zimmermann
-|David ist Organisator für die Veranstaltung Programmierung an dr HHU.
+|David ist Organisator für die Veranstaltung Programmierung an der HHU.
  Er hat große Erfahrung in der Software Entwicklung und arbeitet in der Branche seit vielen Jahren.
 
- Er ist vereihatet und hat auch ein Kind. Durch die vielen Verantwochtungen, die er trägt, leidet er immer unter
- Zeilmangel.
+ Er ist verheiratet und hat auch ein Kind. Durch die vielen Verantwortungen, die er trägt, leidet er immer unter
+ Zeitmangel.
 
- David verteilt jede Woche die Abgaben der Studierende an den Korrekturen entsprechend ihrer Arbeitzeiten und ihrer
- Beschäftigungsart. Diese Verteilung verlangt von ihm viel Zeit und Aufwand.
+ David verteilt jede Woche die Abgaben der Studierende an den Korrekturen entsprechend ihrer Arbeitszeiten und ihrer
+ Beschäftigungsarten. Diese Verteilung verlangt von ihm viel Zeit und Aufwand.
 
- David will an der Entwicklung des neuen Abgabesystem der HHU teilnehmen und das Projekt mit seiner Erfahrung
+ David will an der Entwicklung des neuen Abgabesystems der HHU teilnehmen und das Projekt mit seiner Erfahrung
  unterstützen.
-|David will, dass das Abgabesystem die Möglichkeit hat, die Abgaben der Studierenden automatisch an den Korrekturen
-entsprechend ihrer Beschäftigungsart bzw. ihrer Arbeitszeiten verteilen kann, sodass er nur die Beschäftigungsart der
-Korrekturen eingeben soll und durch eine einfache Berechnung werden die Abgaben fair verteilt.
-
+|David will, dass das Abgabesystem die Möglichkeit hat, die Abgaben der Studierenden automatisch an den KorrektorInnen
+ entsprechend ihrer Beschäftigungsarten bzw. ihrer Arbeitszeiten verteilen kann, sodass er nur die Beschäftigungsarten
+ der KorrektorInnen eingeben soll und durch eine einfache Berechnung werden die Abgaben fair verteilt.
 |===
