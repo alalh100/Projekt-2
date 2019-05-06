@@ -35,6 +35,58 @@ Persona
  der KorrektorInnen eingeben soll und durch eine einfache Berechnung werden die Abgaben fair verteilt.
 |===
 
+= Aufgabe 2
+===================
+
+Komponente
+|===
+|Komponente |Aufgabe  |Schnittstellen mit(in Beziehung mit) | Entscheidungen der Komponente |was könnte sich ändern
+
+|Column 1, row 1
+|Column 2, row 1
+|Column 3, row 1
+|Column 4, row 1
+|Column 5, row 1
+
+|Column 1, row 2
+|Column 2, row 2
+|Column 3, row 2
+|Column 4, row 2
+|Column 5, row 2
+
+|Column 1, row 3
+|Column 2, row 3
+|Column 3, row 3
+|Column 4, row 3
+|Column 5, row 3
+
+|Column 1, row 4
+|Column 2, row 4
+|Column 3, row 4
+|Column 4, row 4
+|Column 5, row 4
+
+|Column 1, row 5
+|Column 2, row 5
+|Column 3, row 5
+|Column 4, row 5
+|Column 5, row 5
+
+|Column 1, row 6
+|Column 2, row 6
+|Column 3, row 6
+|Column 4, row 6
+|Column 5, row 6
+
+|Column 1, row 7
+|Column 2, row 7
+|Column 3, row 7
+|Column 4, row 7
+|Column 5, row 7
+|===
+
+===================
+
 = Aufgabe 3
 ===================
 
