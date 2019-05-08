@@ -60,7 +60,6 @@ Persona
 |
  - Abgabe
 
- - Korrektur
 
 |der Student darf nur seine Abgabe ändern(löschen, hochladen, ersetzen) innerhalb der Abgabefrist.
 |- Abgabe nach Ende der Abgabefrist außnahmeweise nach Zulassung der Organisatoren innerhalb einer
@@ -77,7 +76,7 @@ Persona
  - Ergebniss schreiben bzw. ändern.
 
 |
- - Korrektur
+
 
  - Abgabe
 
@@ -135,6 +134,8 @@ Persona
 
   - Hat die Aufgabe-Datei
 
+  - Hat Abgabe-Kriterien (Beispiel: PDF, Text, Asciidoc, etc.)
+
 | - darf auf Keine andere Komponente zugreifen
 
 | - Keine Entscheidungen werden hier benötigt.
@@ -144,9 +145,12 @@ Persona
 
 |===
 
+" Hinweis: Die Beispiele hier dienen hier nur zu Verständlichkeit der Beschreibung der Komponenten. Das heiß, dass
+  die Implementierung ganz anderes sein kann"
+
 - Wie der Workflow mit meinen Komponenten funktioniert ?
 
- * Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist fest.
+ * Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist und ihre Kriterien fest.
 
   (Beispiel:
    Aufgabe Blatt-1 = new Aufgabe();
@@ -158,11 +162,15 @@ Persona
 
  * Die Korrektoren können auf die Abgaben ihrer zugewiesenen Studierende zugreifen und
   dazu Kommentare schreiben und das Ergebniss jeder Abgabe bestimmen.
+
   ( Beispiel:
-   durch die Methoden
-   Abgabe.setErgebniss() = 50;
-   und vielleicht
-   Abgabe.setKorrektur() = " irgendwas ";)
+     Durch die Methoden:
+
+     Abgabe = getAbgabe("alalh100@hhu.de");
+
+     Abgabe.setErgebniss(50) ;
+
+     Abgabe.setKorrektur(" irgendwas ") ;   )
 
 
 ===================
@@ -173,7 +181,7 @@ Persona
 .Name der Software
 *********************************
 
-HHU-Lern-manager ( HLM )
+HHU-Lern-Manager ( HLM )
 
 oder
 
