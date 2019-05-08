@@ -127,9 +127,12 @@ Persona
 
 | - Aufgabe
 | - Wie Abgaben in die Datenbank gespeichert werden sollen
+
   - Wer darf auf die Abgaben zugreifen.
 
-| - Zugriffsberechtigungen
+|
+  - Zugriffsberechtigungen
+
   - Speicherung in die Datenbank
 
 
