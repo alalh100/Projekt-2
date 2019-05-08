@@ -146,17 +146,17 @@ Persona
 
 - Wie der Workflow mit meinen Komponenten funktioniert ?
 
-  Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist fest.
+ * Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist fest.
   (Beispiel:
    Aufgabe Blatt-1 = new Aufgabe();
 
    Blatt-1.setFrist("16.05.2019"); )
 
-  In der Klasse Abgabe wird die Abgabefrist überprüft und nur falls sie gültig ist, Kann der Student neue Abgabe erzeugn
-  und in die Datenbank schreiben und seine Dateien hochladen.
+ * In der Klasse Abgabe wird die Abgabefrist überprüft und nur falls sie gültig ist, Kann
+  der Student neue Abgabe erzeugn und in die Datenbank schreiben und seine Dateien hochladen.
 
-  Die Korrektoren können auf die Abgaben ihrer zugewiesenen Studierende zugreifen und dazu Kommentare schreiben und
-  Das Ergebniss jeder Abgabe bestimmen.
+ * Die Korrektoren können auf die Abgaben ihrer zugewiesenen Studierende zugreifen und
+  dazu Kommentare schreiben und das Ergebniss jeder Abgabe bestimmen.
   ( Beispiel:
    durch die Methoden
    Abgabe.setErgebniss() = 50;
