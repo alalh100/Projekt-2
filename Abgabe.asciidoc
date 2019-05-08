@@ -40,7 +40,7 @@ Persona
  " Hinweis: Nur aus Gründen der Lesbarkeit wurde im Text die männliche Form gewählt. "
 
 |===
-|Komponente |Aufgabe(Funktionalitäten)  |Schnittstellen mit(darf auf die folgende Komponente zugreifen) | Entscheidungen der Komponente |Welche Entscheidungen könnten sich ändern
+|Komponente |Aufgabe(Funktionalitäten)  |Schnittstellen mit(darf auf die folgende Komponente zugreifen) | Entscheidungen der Komponente |Welche Entscheidungen werden möglicheweise gändert oder hinzugefügt
 
 |Student
 | - Abgabefrist sehen
@@ -97,7 +97,7 @@ Persona
 
  - Nachzügler aussuchen (neue Abgabe durch neue Abgabefrist für Nachzügler ermöglichen)
 
-| - Abgabe
+| - Aufgabe
 
 | - Vorrausetzungen der Abgaben bestimmen
 
@@ -107,33 +107,62 @@ Persona
 
   - Joker-Funktion einschalten.
 
+  - Bestehensgrenze bestimmen.
 
-|Column 1, row 4
-|Column 2, row 4
-|Column 3, row 4
-|Column 4, row 4
-|Column 5, row 4
 
-|Column 1, row 5
-|Column 2, row 5
-|Column 3, row 5
-|Column 4, row 5
-|Column 5, row 5
+|Abgabe
+| - Wie Abgaben in die Datenbank gespeichert werden sollen
 
-|Column 1, row 6
-|Column 2, row 6
-|Column 3, row 6
-|Column 4, row 6
-|Column 5, row 6
+  - kann auf die Abgabefrist der zugehörigen Aufgabe zugreifen
 
-|Column 1, row 7
-|Column 2, row 7
-|Column 3, row 7
-|Column 4, row 7
-|Column 5, row 7
+  - kann auf Abgabe-Kriterien zugreifen.
+
+  - Hat Ergebniss
+
+  - Hat Korrektur
+
+
+| - Aufgabe
+| - Wie Abgaben in die Datenbank gespeichert werden sollen
+  - Wer darf auf die Abgaben zugreifen.
+
+| - Zugriffsberechtigungen
+  - Speicherung in die Datenbank
+
+
+|Aufgabe
+| - Hat Abgabefrist
+
+  - Hat die Aufgabe-Datei
+
+| - darf auf Keine andere Komponente zugreifen
+
+| - Keine Entscheidungen werden hier benötigt.
+| - wahrscheinlich nichts, da keine Entscheidungen hier getroffen werden.
+
+
+
 |===
 
 - Wie der Workflow mit meinen Komponenten funktioniert ?
+
+  Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist fest.
+  (Beispiel:
+   Aufgabe Blatt-1 = new Aufgabe();
+
+   Blatt-1.setFrist("16.05.2019"); )
+
+  In der Klasse Abgabe wird die Abgabefrist überprüft und nur falls sie gültig ist, Kann der Student neue Abgabe erzeugn
+  und in die Datenbank schreiben und seine Dateien hochladen.
+
+  Die Korrektoren können auf die Abgaben ihrer zugewiesenen Studierende zugreifen und dazu Kommentare schreiben und
+  Das Ergebniss jeder Abgabe bestimmen.
+  ( Beispiel:
+   durch die Methoden
+   Abgabe.setErgebniss() = 50;
+   und vielleicht
+   Abgabe.setKorrektur() = " irgendwas ";)
+
 
 ===================
 
