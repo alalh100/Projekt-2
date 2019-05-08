@@ -8,12 +8,16 @@ Persona
 
 |Sam alnomiry
 |Sam studiert als Austauschstudent Informatik an der HHU.
+
  Seine Sprachkenntnisse sind mittelmäßig. Er besucht die Veranstaltungen RDB
  und Rechnerarchitektur.
+
  Sam hat gar keine Programmierkenntnisse und kann mit dem PC auch nicht so besonders umgehen.
  Sam liest gerne Philosophie Bücher. Deswegen ist seine Abstraktionsfähigkeit besonders stark.
+
  Er ist mit den Plattformen der Uni unzufrieden, da er mit den vielen Plattformen überfordert ist und wünscht sich,
  dass das ganze irgendwann viel einfacher wird und mit Fremdsprachen unterstützt wird.
+
  Es gibt für jeweils seine Module unterschiedliche Bestehensgrenzen und er kann sie nicht alle merken.
 |Sam möchte, dass das Abgabesystem nicht nur seine erreichten Punkte bei den Abgaben sieht, sondern auch, dass es einen
  Status gibt, wie seine Leistung mit einfachen Wörtern war, z.B, gut, ausreichend, nicht bestanden, etc.
@@ -171,6 +175,7 @@ Persona
      Abgabe.setErgebniss(50) ;
 
      Abgabe.setKorrektur(" irgendwas ") ;   )
+
 
 
 ===================
