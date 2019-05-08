@@ -87,10 +87,26 @@ Persona
  - Der korrektor könnte vielleicht neue Korrektur starten für eine verspätete Abgebe.
 
 |Organisator
-|Column 2, row 3
-|Column 3, row 3
-|Column 4, row 3
-|Column 5, row 3
+|- Aufgaben hochladen
+
+ - Abgabefrist festlegen
+
+ - Abgabefrist ändern
+
+ - Abgabe-Kriterien festlegen ( Abgabe soll Text, Pdf, etc. )
+
+ - Nachzügler aussuchen (neue Abgabe durch neue Abgabefrist für Nachzügler ermöglichen)
+
+| - Abgabe
+
+| - Vorrausetzungen der Abgaben bestimmen
+
+  - Neue Abgabe für ausgewählten Studierende ermöglichen
+
+| - Anzahl der Abgabe-Versuche bestimmen.
+
+  - Joker-Funktion einschalten.
+
 
 |Column 1, row 4
 |Column 2, row 4
