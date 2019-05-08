@@ -147,6 +147,7 @@ Persona
 - Wie der Workflow mit meinen Komponenten funktioniert ?
 
  * Der Organisator erzeugt eine neue Aufgabe(Blatt) und liegt ihre Abgabefrist fest.
+
   (Beispiel:
    Aufgabe Blatt-1 = new Aufgabe();
 
