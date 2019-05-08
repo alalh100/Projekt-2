@@ -25,7 +25,7 @@ Persona
  Er ist verheiratet und hat auch ein Kind. Durch die vielen Verantwortungen, die er trägt, leidet er immer unter
  Zeitmangel.
 
- David verteilt jede Woche die Abgaben der Studierende an den Korrekturen entsprechend ihrer Arbeitszeiten und ihrer
+ David verteilt jede Woche die Abgaben der Studierende an den Korrektoren entsprechend ihrer Arbeitszeiten und ihrer
  Beschäftigungsarten. Diese Verteilung verlangt von ihm viel Zeit und Aufwand.
 
  David will an der Entwicklung des neuen Abgabesystems der HHU teilnehmen und das Projekt mit seiner Erfahrung
@@ -37,16 +37,33 @@ Persona
 
 = Aufgabe 2
 ===================
+ " Hinweis: Nur aus Gründen der Lesbarkeit wurde im Text die männliche Form gewählt. "
 
-Komponente
 |===
-|Komponente |Aufgabe  |Schnittstellen mit(in Beziehung mit) | Entscheidungen der Komponente |was könnte sich ändern
+|Komponente |Aufgabe(Funktionalitäten)  |Schnittstellen mit(darf auf die folgende Komponente zugreifen) | Entscheidungen der Komponente |Welche Entscheidungen könnten sich ändern
 
-|Column 1, row 1
-|Column 2, row 1
-|Column 3, row 1
-|Column 4, row 1
-|Column 5, row 1
+|Student
+| - Abgabefrist sehen
+
+  - Aufgaben herunterladen
+
+  - Lösung hochladen
+
+  - Lösung löschen
+
+  - Lösung ersetzen
+
+  - Ergebnis sehen
+
+  - Korrektur sehen
+
+|
+ - Abgabe
+
+ - Korrektur
+
+|der Student darf nur seine Abgabe ändern(löschen, hochladen, ersetzen) innerhalb der Abgabefrist.
+|nichts
 
 |Column 1, row 2
 |Column 2, row 2
@@ -84,6 +101,8 @@ Komponente
 |Column 4, row 7
 |Column 5, row 7
 |===
+
+- Wie der Workflow mit meinen Komponenten funktioniert ?
 
 ===================
 
