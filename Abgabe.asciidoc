@@ -63,15 +63,30 @@ Persona
  - Korrektur
 
 |der Student darf nur seine Abgabe ändern(löschen, hochladen, ersetzen) innerhalb der Abgabefrist.
-|nichts
+|- Abgabe nach Ende der Abgabefrist außnahmeweise nach Zulassung der Organisatoren innerhalb einer
+   neuen Frist hochladen.
 
-|Column 1, row 2
-|Column 2, row 2
-|Column 3, row 2
-|Column 4, row 2
-|Column 5, row 2
+|Korrektor
+|
+ - Abgaben herunterladen
 
-|Column 1, row 3
+ - Kommentare zu den einzelnen Abgaben schreiben(Korrektur) nur nach der Abgabefrist
+
+ - Korrektur ändern
+
+ - Ergebniss schreiben bzw. ändern.
+
+|
+ - Korrektur
+
+ - Abgabe
+
+|
+ - Korrektur ändern.
+|
+ - Der korrektor könnte vielleicht neue Korrektur starten für eine verspätete Abgebe.
+
+|Organisator
 |Column 2, row 3
 |Column 3, row 3
 |Column 4, row 3
